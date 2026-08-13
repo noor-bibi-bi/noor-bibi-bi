@@ -106,13 +106,13 @@ My work bridges the gap between AI development and modern software engineering, 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noor-bibi-bi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=noor-bibi-bi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="195" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-bibi-bi&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=noor-bibi-bi&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-bibi-bi&theme=tokyonight&cache_seconds=86400" height="195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=noor-bibi-bi&theme=tokyonight&cache_seconds=86400" height="195" alt="GitHub Streak" />
 </div>
 
 > *Note: If GitHub Stats images are not loading, they may be rate-limited by the public server. You can view my live stats directly on my profile.*
