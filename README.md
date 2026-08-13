@@ -16,9 +16,9 @@
 
 ### 📖 About Me
 
-I am an **AI/ML Engineer and Full-Stack Developer** with **1.5+ years of experience** designing intelligent applications, scalable backend systems, and cross-platform mobile solutions. I specialize in training machine learning models, implementing Retrieval-Augmented Generation (RAG) pipelines, building robust RESTful APIs, and automating containerized DevOps pipelines.
+I am an **AI/ML Engineer, Full-Stack Developer, and Mobile Application Developer** with hands-on experience designing intelligent applications, containerized microservices, and automated CI/CD pipelines. I specialize in building and deploying machine learning models, designing Retrieval-Augmented Generation (RAG) architectures, and orchestrating scalable, cloud-native deployments.
 
-My work bridges the gap between AI research and production-ready applications, leveraging cloud infrastructure and CI/CD pipelines to deliver high-performance software.
+My work bridges the gap between AI development and modern software engineering, focusing on creating high-performance, containerized applications backed by robust CI/CD automation.
 
 ---
 
@@ -72,11 +72,11 @@ My work bridges the gap between AI research and production-ready applications, l
 
 ### 📂 Featured Projects
 
-#### 🌟 [Atelier — AI-Based Personal Styling Application](https://github.com/noor-bibi-bi) *(Final Year Project)*
+#### 🌟 Atelier — AI-Based Personal Styling Application *(Final Year Project)*
 *AI-powered Flutter mobile app and FastAPI backend designed to offer personalized styling recommendations based on computer vision.*
-- Developed a Flutter application utilizing **computer vision classification models** to generate personalized style profiles.
-- Trained a custom twelve-season machine learning model to accurately identify personalized color palettes from user selfies.
-- Designed a **FastAPI** backend supporting wardrobe management, outfit planning, and personalized fashion recommendations.
+- Developed a **Flutter** application utilizing **computer vision classification models** to generate personalized style profiles from user photos.
+- Trained and optimized a twelve-season machine learning model to accurately identify personalized color palettes from user selfies.
+- Designed a scalable **FastAPI** backend supporting wardrobe management, outfit planning, and personalized fashion recommendations.
 
 #### 🩺 [MedAssist — RAG-Powered Clinical Knowledge Assistant](https://github.com/noor-bibi-bi/medassist-rag)
 *Clinical knowledge assistant delivering accurate, evidence-based medical responses using Retrieval-Augmented Generation.*
@@ -89,28 +89,33 @@ My work bridges the gap between AI research and production-ready applications, l
 - Built an automated **GitHub Actions** CI/CD pipeline integrating unit testing, vulnerability scans, containerization, and automated cloud deployments.
 - Implemented secure cloud-native deployment workflows improving overall application reliability and scaling.
 
-#### 💧 [AquaGuard — Water Quality & Safety Web App](https://github.com/noor-bibi-bi/AquaGuard)
-*A clean, responsive web application presenting crucial analytics and safety metrics for water security.*
-- Developed using semantic **HTML5**, modern **Vanilla CSS**, and **JavaScript** logic.
-- Focused on high-quality UX, responsiveness, and performance optimization.
+#### 💧 [AquaGuard — AI-Powered Safe Water Quality Prediction](https://github.com/noor-bibi-bi/AquaGuard)
+*A comprehensive Machine Learning pipeline that predicts ground and lake water safety based on chemical quality thresholds.*
+- Developed a complete data processing and machine learning pipeline comparing **Random Forest** and **XGBoost** classifiers for water potability prediction.
+- Labeled and analyzed safety levels using **WHO and IS water safety standards** on combined environmental datasets.
+- Built interactive **Folium geospatial mapping dashboards** (including heatmaps and marked safety locations) exported as standalone HTML visualizations.
 
-#### 🗄️ [Spring26 Sakila App](https://github.com/noor-bibi-bi/spring26_sakila_app)
-*A full-stack database management web application built around the classic Sakila database schema.*
-- Designed clean, interactive interfaces allowing users to query, analyze, and manage relational database schemas.
+#### 🗄️ [Spring26 Sakila App — Flask Movie Database Web Application](https://github.com/noor-bibi-bi/spring26_sakila_app)
+*A multi-container Python Flask web application designed for interactive management of the MySQL Sakila sample database.*
+- Developed a backend using **Flask** and configured MySQL database orchestration within **Docker containers**.
+- Implemented a secure **custom Docker network** to establish isolated, reliable container-to-container communication.
+- Automated linting pipelines and container builds with GitHub Actions, utilizing `docker-compose` for streamlined local development.
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noor-bibi-bi&show_icons=true&theme=tokyonight&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noor-bibi-bi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="195" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-bibi-bi&layout=compact&theme=tokyonight&hide=html,css" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-bibi-bi&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-bibi-bi&theme=tokyonight" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-bibi-bi&theme=tokyonight&cache_seconds=86400" height="195" alt="GitHub Streak" />
 </div>
+
+> *Note: If GitHub Stats images are not loading, they may be rate-limited by the public server. You can view my live stats directly on my profile.*
 
 ---
 
