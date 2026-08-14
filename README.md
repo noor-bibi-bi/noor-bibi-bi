@@ -127,7 +127,30 @@ My work bridges the gap between AI development and modern software engineering, 
   <img src="./profile-summary-card-output/tokyonight/4-top-languages.svg" width="400" alt="GitHub Top Languages" />
 </div>
 
-> *Note: These stats cards are generated securely and statically inside this repository using a GitHub Actions runner. If they are not visible yet, they will render as soon as the initial workflow run completes.*
+> *Note: These automated charts represent repositories directly owned on this personal account. They do not calculate contributions to collaborative repositories (such as the Flutter-based **Atelier** application) or database configuration files.*
+
+---
+
+### ⚙️ Core Technical Proficiency
+
+<table width="100%">
+  <tr>
+    <td width="20%"><strong>Dart & Flutter</strong></td>
+    <td width="80%"><img src="https://geps.dev/progress/90?dangerColor=30f4d1&warningColor=2088FF&successColor=02569B" alt="90%" /></td>
+  </tr>
+  <tr>
+    <td><strong>Python (AI/ML)</strong></td>
+    <td><img src="https://geps.dev/progress/85?dangerColor=30f4d1&warningColor=2088FF&successColor=3776AB" alt="85%" /></td>
+  </tr>
+  <tr>
+    <td><strong>SQL & Databases</strong></td>
+    <td><img src="https://geps.dev/progress/80?dangerColor=30f4d1&warningColor=2088FF&successColor=4169E1" alt="80%" /></td>
+  </tr>
+  <tr>
+    <td><strong>DevOps (Docker/K8s)</strong></td>
+    <td><img src="https://geps.dev/progress/80?dangerColor=30f4d1&warningColor=2088FF&successColor=2496ED" alt="80%" /></td>
+  </tr>
+</table>
 
 ---
 
