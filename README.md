@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>👋 Hello, I'm Noor Bibi</h3>
-  <p><strong>AI/ML Engineer | Full-Stack Developer | Mobile Application Developer</strong></p>
+  <p><strong>AI/ML Engineer | Full-Stack Android/App Developer | Mobile Application Developer</strong></p>
   <p>📍 Lahore, Pakistan</p>
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 📖 About Me
 
-I am an **AI/ML Engineer, Full-Stack Developer, and Mobile Application Developer** with hands-on experience designing intelligent applications, containerized microservices, and automated CI/CD pipelines. I specialize in building and deploying machine learning models, designing Retrieval-Augmented Generation (RAG) architectures, and orchestrating scalable, cloud-native deployments.
+I am an **AI/ML Engineer, Full-Stack Android/App Developer, and Mobile Application Developer** with hands-on experience designing intelligent applications, containerized microservices, and automated CI/CD pipelines. I specialize in building and deploying machine learning models, designing Retrieval-Augmented Generation (RAG) architectures, and orchestrating scalable, cloud-native deployments.
 
 My work bridges the gap between AI development and modern software engineering, focusing on creating high-performance, containerized applications backed by robust CI/CD automation.
 
@@ -70,6 +70,16 @@ My work bridges the gap between AI development and modern software engineering, 
 
 ---
 
+### 🚧 In-Progress & Upcoming Projects
+
+#### 🎵 [CUE — Context-Aware Smart Music Pairing Platform](https://github.com/noor-bibi-bi)
+*An intelligent, context-driven social music application that dynamically generates collaborative playlists based on environmental triggers.*
+- **Cross-Platform App (Flutter)**: Developed the mobile client integrating secure token storage (`flutter_secure_storage`), crash reporting (`sentry_flutter`), and high-performance interactive animations using **Rive**.
+- **REST Backend (FastAPI)**: Built a modular FastAPI server supported by **PostgreSQL** migrations (orchestrated with **Alembic**) and Docker containerization.
+- **Context-Aware Matcher Engine**: Designed a playlist matching pipeline integrating **Spotify APIs** and **Google APIs (Calendar, OAuth)** to adjust musical mood parameters (valence, tempo) dynamically using real-time factors like local weather and calendar density.
+
+---
+
 ### 📂 Featured Projects
 
 #### 🌟 Atelier — AI-Based Personal Styling Application *(Final Year Project)*
@@ -106,16 +116,18 @@ My work bridges the gap between AI development and modern software engineering, 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=noor-bibi-bi&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="195" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="400" alt="GitHub Profile Details" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=noor-bibi-bi&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=86400" height="195" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400" alt="GitHub Repos Per Language" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=noor-bibi-bi&theme=tokyonight&cache_seconds=86400" height="195" alt="GitHub Streak" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="400" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="./profile-summary-card-output/tokyonight/4-top-languages.svg" width="400" alt="GitHub Top Languages" />
 </div>
 
-> *Note: If GitHub Stats images are not loading, they may be rate-limited by the public server. You can view my live stats directly on my profile.*
+> *Note: These stats cards are generated securely and statically inside this repository using a GitHub Actions runner. If they are not visible yet, they will render as soon as the initial workflow run completes.*
 
 ---
 
