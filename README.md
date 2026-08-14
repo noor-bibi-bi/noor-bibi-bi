@@ -124,7 +124,7 @@ My work bridges the gap between AI development and modern software engineering, 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="400" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="./profile-summary-card-output/tokyonight/4-top-languages.svg" width="400" alt="GitHub Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400" alt="GitHub Top Languages" />
 </div>
 
 > *Note: These automated charts represent repositories directly owned on this personal account. They do not calculate contributions to collaborative repositories (such as the Flutter-based **Atelier** application) or database configuration files.*
