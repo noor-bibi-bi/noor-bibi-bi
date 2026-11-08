@@ -1,5 +1,5 @@
   <div align="center">
-  <img src="portfolio-banner.jpg" width="100%" alt="Noor Bibi">
+  <img src="portfolio-banner.png" width="100%" alt="Noor Bibi">
   <h2>Hi, I'm Noor Bibi</h2>
   <p><strong>AI/ML Engineer & Full Stack Developer</strong></p>
   <p>Lahore, Pakistan</p>
