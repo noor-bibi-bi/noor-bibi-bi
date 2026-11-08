@@ -1,5 +1,6 @@
-  <div align="center">
-  <img src="portfolio-banner.png" width="100%" alt="Noor Bibi">
+<div align="center">
+  <img src="portfolio-banner.png" width="100%" alt="Noor Bibi, AI/ML Engineer & Full Stack Developer">
+
   <h2>Hi, I'm Noor Bibi</h2>
   <p><strong>AI/ML Engineer & Full Stack Developer</strong></p>
   <p>Lahore, Pakistan</p>
@@ -102,8 +103,9 @@ A three-tier platform focused on CI/CD automation and container orchestration.
 
 **BS in Computer Science**, Beaconhouse National University, Lahore (Sep 2022 – Jun 2026)
 
-## Certifications
+## Achievements & Certifications
 
-- Ethical Hacking Fundamentals, LearnKartS
 - APAC Solution Challenge, GDGoC Beaconhouse National University
 - SOFTEC, FAST National University (FAST NUCES)
+- Ethical Hacking Fundamentals, LearnKartS
+- President, BNU SciTech Society (May 2025 – Jun 2026)
