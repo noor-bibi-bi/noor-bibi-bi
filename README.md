@@ -97,7 +97,7 @@ A three-tier platform focused on CI/CD automation and container orchestration.
 - **President**, BNU SciTech Society (May 2025 – Jun 2026): led hackathons, workshops, seminars, and industry networking events.
 - **Teaching Assistant**, Beaconhouse National University (Sep 2024 – May 2025): DBMS, ADBMS, and AI; mentored 60+ students.
 - **Frontend Developer (Freelance)**, Bytecode Technologies (2023 – 2024).
-- **Freelance Developer & Digital Specialist** (Mar 2021 – Present): full-stack, frontend, and Flutter projects via Fiverr, Upwork, and direct clients; Shopify store maintenance and social media management.
+- **Freelance Developer & Digital Specialist** (Mar 2021 – March 2025): full-stack, frontend, and Flutter projects via Fiverr, Upwork, and direct clients; Shopify store maintenance and social media management.
 
 ## Education
 
